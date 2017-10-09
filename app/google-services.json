@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "483262270684",
+    "firebase_url": "https://feed-me-a1bf5.firebaseio.com",
+    "project_id": "feed-me-a1bf5",
+    "storage_bucket": "feed-me-a1bf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483262270684:android:29939b2655dfb762",
+        "android_client_info": {
+          "package_name": "com.example.julia.feedme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483262270684-ecnqr4hg414ugietdf0o5tlie54jc33p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmlCkWhPzJRohEgYxOSN4ULKwP6z0i-ps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
